@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685354928693",
+    "project_id": "evital-5c67f",
+    "storage_bucket": "evital-5c67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685354928693:android:9412914229df4f1331bf7c",
+        "android_client_info": {
+          "package_name": "com.emaple.evitalrx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCT8Bl-NY6WmG7mM45m_BEgn5-xDsJnKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
